@@ -10,6 +10,7 @@
 		<div>
 			<header>
 				<h1>This was edited in aptana</h1>
+				<h2>Today is September 4th</h2>
 			</header>
 			<nav>
 				<p>
